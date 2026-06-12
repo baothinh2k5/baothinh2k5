@@ -1,16 +1,15 @@
 # Hi there, I'm Bảo 👋
 
-### 🚀 Backend Developer | DevOps Enthusiast
+### 🚀 Backend Developer | DevOps Engineer
 
-Là một sinh viên ngành Công nghệ Thông tin tại HCMUTE, mình có niềm đam mê mãnh liệt với việc xây dựng các hệ thống Backend vững chắc và triển khai hạ tầng đám mây tối ưu. 
-
+Là một sinh viên ngành Công nghệ Thông tin tại HCMUTE, mình có niềm đam mê mãnh liệt với việc xây dựng các hệ thống Backend và triển khai hạ tầng đám mây tối ưu. 
 Mục tiêu của mình là tạo ra các ứng dụng không chỉ chạy đúng logic, xử lý dữ liệu mượt mà ở phía server, mà còn có khả năng mở rộng (scale) và vận hành tự động, ổn định trên môi trường thực tế.
 
 ## 🛠️ Tech Stack & Tools
 
 **💻 Backend Development & Databases**
-* **Languages:** Python, Java, C#
-* **Databases:** PostgreSQL, MySQL (Thiết kế lược đồ dữ liệu chuyên sâu và tối ưu truy vấn)
+* **Languages:** Python, Java
+* **Databases:** PostgreSQL, MySQL
 * **Architecture:** MVC, API Development & Integration
 
 **☁️ DevOps & Cloud Infrastructure**
